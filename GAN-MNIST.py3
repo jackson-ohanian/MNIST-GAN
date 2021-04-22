@@ -205,7 +205,8 @@ class GAN:
         print("----- start training -----")
 
        ### Not Uploading MNIST / add appropriate file paths / parsing here
-       ### if working off of this 
+       ### if working off of this / contact me for my parsing 
+       ### -jackson
        
         print("Processing dataset ...")
         train_data = GANDataset(
